@@ -1,8 +1,10 @@
 # 👋 Привет! Я Андрей (Andrmunboya)
 
-**Focus:** Data Science | Data Engineering  
-**Education:** Студент МАИ  
-**Current:** Стажёр в Hoff Tech  
+<p align="left">
+  <img src="https://shields.io" alt="Focus">
+  <img src="https://shields.io" alt="Education">
+  <img src="https://shields.io" alt="Current">
+</p>
 
 ### 🧬 Обо мне
 Я будущий высококлассный **Data Scientist / Data Engineer** с сильной математической базой из МАИ и системным инженерным мышлением. Люблю докапываться до физического и математического смысла алгоритмов, будь то энтропия деревьев решений, градиентный спуск или Гессианы в бустингах. 
