@@ -28,7 +28,7 @@
 ---
 
 ### 📊 Мои Главные Проекты в Репозиториях:
-* 🧮 **[Titanic Kaggle Exploration]([https://github.com](https://github.com/Andrmunboya/Titanic_kaggle))** — Исследование ансамблей моделей (Random Forest, CatBoost). Достиг точности прогноза **87.57%** на FastAPI продакшене. Отработал защиту от утечки данных (Data Leakage) и Feature Importance.
+* 🧮 **[Titanic Kaggle Exploration](https://github.com/Andrmunboya/Titanic_kaggle)** — Исследование ансамблей моделей (Random Forest, CatBoost). Достиг точности прогноза **87.57%** на FastAPI продакшене. Отработал защиту от утечки данных (Data Leakage) и Feature Importance.
 * 🕷️ **[Async Book Parser & EDA](https://github.com/Andrmunboya/Parsing_Books_Toscrape)** — Многостраничный парсер каталога на 1000+ позиций и автоматическим анализом ценовых категорий средствами Pandas.
 * 🎵 **[Parser_Yandex_Music](https://github.com/Andrmunboya/Parser_Yandex_Music)** — Инструмент для автоматического сбора данных, треков, плейлистов или метаданных с платформы Яндекс Музыка. Работа со сложной структурой веб-ресурса и парсинг динамического контента на Python.
 
