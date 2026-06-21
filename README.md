@@ -28,14 +28,15 @@
 ---
 
 ### 📊 Мои Главные Проекты в Репозиториях:
-* 🧮 **[Titanic Kaggle Exploration](https://github.com)** — Исследование ансамблей моделей (Random Forest, CatBoost). Достиг точности прогноза **87.57%** на FastAPI продакшене. Отработал защиту от утечки данных (Data Leakage) и Feature Importance.
-* 🕷️ **[Async Book Parser & EDA](https://github.com)** — Многостраничный парсер каталога на 1000+ позиций с вежливыми задержками (`time.sleep`) и автоматическим анализом ценовых категорий средствами Pandas.
+* 🧮 **[Titanic Kaggle Exploration]([https://github.com](https://github.com/Andrmunboya/Titanic_kaggle))** — Исследование ансамблей моделей (Random Forest, CatBoost). Достиг точности прогноза **87.57%** на FastAPI продакшене. Отработал защиту от утечки данных (Data Leakage) и Feature Importance.
+* 🕷️ **[Async Book Parser & EDA](https://github.com/Andrmunboya/Parsing_Books_Toscrape)** — Многостраничный парсер каталога на 1000+ позиций и автоматическим анализом ценовых категорий средствами Pandas.
+* 🎵 **[Parser_Yandex_Music](https://github.com/Andrmunboya/Parser_Yandex_Music)** — Инструмент для автоматического сбора данных, треков, плейлистов или метаданных с платформы Яндекс Музыка. Работа со сложной структурой веб-ресурса и парсинг динамического контента на Python.
 
 ---
 
 ### 📬 Как со мной связаться
-* 💼 **Хабр Карьера:** [Мой профиль](https://habr.com) *(можешь вставить прямую ссылку, когда оформишь)*
-* 🔨 **Kwork (Фриланс):** [Заказать парсинг/аналитику](https://kwork.ru)
+* 💼 **Хабр Карьера:** [Мой профиль](https://career.habr.com/andusha)
+* 🔨 **Kwork (Фриланс):** [Заказать парсинг/аналитику](https://kwork.ru/user/andrmunboya)
 
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats">
